@@ -1,2 +1,2 @@
 # alberic-wds
-Alberic suite center
+alberic-wds.fr suite center
